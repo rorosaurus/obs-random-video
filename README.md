@@ -3,6 +3,11 @@
 Play videos in random order!
 Perfect for BRB screens!
 
+Modified by rorosaurus to:
+
+* loop a randomly selected video until
+* the next random video starts every 3 minutes
+
 ## Instructions
 
 1. Copy the `index.html` file or its code
