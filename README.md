@@ -7,6 +7,7 @@ Modified by rorosaurus to:
 
 * loop a randomly selected video until
 * the next random video starts every 3 minutes
+* with fade in/out to black transitions in-between each new video
 
 ## Instructions
 
